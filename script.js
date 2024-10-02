@@ -1,5 +1,5 @@
 const avanca = document.querySelectorAll('.btn-proximo');
-
+/*Pedro Guilherme Marques de Sales 29/09/2024*/
 avanca.forEach(button => {
     button.addEventListener('click', function(){
         const atual = document.querySelector('.ativo');
